@@ -111,7 +111,6 @@ export default [
     mode,
     context: import.meta.dirname,
     entry: {
-      index: "./packages/server/lib/main.ts",
       keybr: "./packages/server-cli/lib/main.ts",
     },
     output: {
