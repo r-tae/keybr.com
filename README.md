@@ -3,7 +3,8 @@
 Develop locally using:
 
 ```
-npm build
+npm run compile
+npm run build
 npm start
 ```
 
